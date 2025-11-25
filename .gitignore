@@ -1,0 +1,7 @@
+#directorio de build
+/build/
+/dist/
+
+#logs y caches
+*.log
+.cache/
